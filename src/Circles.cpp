@@ -25,5 +25,11 @@ void Circles::draw(){
 	ofSetColor(63, 34, 187);
 	ofDrawCircle(45, 35, 30);
 
+	ofSetColor(10, 189, 142);
+	ofDrawCircle(343, 317, 50);
+
+	ofSetColor(249, 236, 176);
+	ofDrawCircle(375, 458, 99);
+
 
 }
