@@ -23,6 +23,7 @@ void ofApp::draw(){
     circles.draw();
     lines.draw();
     triangles.draw();
+	ofSetBackgroundColor(255, 192, 203);
 }
 
 //--------------------------------------------------------------
