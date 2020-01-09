@@ -16,5 +16,8 @@ void Circles::update(){
 }
 
 void Circles::draw(){
-    
+	ofSetColor(250, 132, 91);
+	ofDrawCircle(200, 300, 50);
+
+
 }
